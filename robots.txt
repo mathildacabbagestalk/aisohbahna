@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xesothaip.standerorsitter.com/sitemap.xml
